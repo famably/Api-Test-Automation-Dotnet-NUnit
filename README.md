@@ -1,4 +1,4 @@
-# Abel & Cole – API Test Automation Task (Self-Contained Mock Setup)
+# API Test Automation (Self-Contained Mock Setup)
 
 This project implements automated API tests for the **ReqRes API** scenarios described in the Abel & Cole technical assessment.  
 It is written in **C# (.NET 8)** using **NUnit**, **RestSharp**, and **FluentAssertions**, and includes a built-in **mock API server** implemented with **ASP.NET Core Minimal API**.
